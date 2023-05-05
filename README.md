@@ -12,3 +12,9 @@ Sistema que na verdade é uma API REST, um back end que disponibiliza os end poi
 - Buscar um usuário pelo seu id
 - Inserir um novo usuário
 
+
+# EndPoints / Requisições
+
+- Buscando todos os usuários
+![Image]https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/endpointUsers.png "All users.")
+
