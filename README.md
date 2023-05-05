@@ -38,8 +38,6 @@ Sistema que na verdade é uma API REST, um back end que disponibiliza os end poi
 
 # Back end
 
-![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/departmentdbH2.png "department.")
-
 ![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/databaseH2Users.png "db H2 All users.")
 
 #### Configuração do Maven Resources Plugin
