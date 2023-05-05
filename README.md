@@ -12,6 +12,7 @@ Sistema que na verdade é uma API REST, um back end que disponibiliza os end poi
 - Buscar um usuário pelo seu id
 - Inserir um novo usuário
 
+![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/diagrama.png "Diagram.")
 
 # EndPoints / Requisições
 
@@ -23,8 +24,23 @@ Sistema que na verdade é uma API REST, um back end que disponibiliza os end poi
   
 ![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/Users.png "All users.")
 
+- Buscando um usuário por Id
 
+![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/Userbyid.png "One user per ID.")
 
+![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/User%20by%20id.png "One user per ID")
+
+-  Salvar um novo usuário
+
+![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/SaveNewUser.png "Save new User")
+
+![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/new%20User.png "Save new User")
+
+# Back end
+
+![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/departmentdbH2.png "department.")
+
+![Image](https://github.com/LucasCosta-Code23/Projeto-Java-Web-no-Spring-Boot/blob/main/img/databaseH2Users.png "db H2 All users.")
 
 #### Configuração do Maven Resources Plugin
 
